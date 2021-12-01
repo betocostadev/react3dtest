@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.app-title {
+  position: absolute;
+  z-index: 500;
+  margin-left: 40%;
+  margin-top: 2rem;
+}
